@@ -21,3 +21,4 @@ else
 int number2 = number1 = n
 Console.WriteLine("Остаток от деления", number2 % number1);
 }
+
