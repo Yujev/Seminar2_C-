@@ -18,7 +18,7 @@ if (number2 % number1 == 0)
 }
 else 
 {
-int number2 = number1 = n
+int number2 = number1 ==0
 Console.WriteLine("Остаток от деления", number2 % number1);
 }
 
